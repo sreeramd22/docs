@@ -1,0 +1,287 @@
+[CENTER][IMG="Xtended"]https://i.postimg.cc/N0Kt6zqj/template-Head.png[/IMG][/CENTER]
+
+[CENTER][CODE]
+* Disclaimer 
+* We're not responsible for bricked devices, dead SD cards, thermonuclear war, 
+* or you getting fired because the alarm app failed. Please do some research 
+* if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! goes the dynamite
+[/CODE][/CENTER]
+
+[CENTER][IMG]https://i.postimg.cc/gc8YtQww/intro.png[/IMG][/CENTER]
+[QUOTE]
+*** Ohh Really we need to introduce! ;). We team "[B]MSM Xtended[/B]" are here with new era of Android. We have tried our best to blend it with all available options, features and stability of different ROMs in to one for better user experience.***
+[/QUOTE]
+
+[CENTER][img]https://i.postimg.cc/yxmsJ3qh/features.png[/img]
+[QUOTE][LEFT]
+[HIDE]
+[COLOR="#1976D2"][U]OnePlus Devices[/U][/COLOR][list]
+
+[*]Awesome Slider
+[*]Oneplus Gesture
+[*]Vibrator Strength
+[*]Display Calibration (Kcal)
+[*]Panel Modes
+[*]High Brightness Mode
+[*]DC Dimmer[/list]
+
+[B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B][list]
+
+[*]Redesigned Battery Meter View
+[*]Reset battery stats
+[*]Screenshot sound 
+[*]Sim 1 & 2 Ringtone
+[*]Quick Unlock
+[/list]
+
+[COLOR="#1976D2"][B][U]===> Xtended Options (Xtensions of Xtended) Includes <===[/U][/B][/COLOR]
+
+[B][COLOR="#1976D2"][U]Buttons[/U][/COLOR][/B][list]
+
+[*]Volume Key Customization (Call Answer, Cursor Control, Reorient & Music Control)
+[*]Disable Keys
+[*]Swap Back n Recent Keys
+[*]Backlight + Customizations
+[*]Single Press + Long Press + Double Tap Customizations
+[*]Accidental Touch[/list]
+
+[B][COLOR="#1976D2"][U]Decor Room[/U][/COLOR][/B][list]
+[*]Ambient Display
+[*]Animations	
+[*]Battery Styles
+[*]Clock Settings
+[*]Carrier Label
+[*]Statusbar Logo
+[*]Statusbar Weather[/list]
+
+[B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B][list]
+
+[*]AOSP Gesture
+[*]Swipe to screenshot
+[*]Screen off Power Button Torch & TimeOut[/list]
+
+[B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B][list]
+
+[*]Lockscreen shortcuts (Left & Right)
+[*]Lockscreen Weather Temp & City
+[*]Lockscreen Weather Condition Image
+[*]Lockscreen charging info
+[*]Double Tap to sleep (lockscreen, Statusbar)[/list]
+
+[B][COLOR="#1976D2"][U]Navigations[/U][/COLOR][/B][list]
+
+[*]Enable Controls whether navbar is displayed
+[*]Navbar Tuner[/list]
+
+[B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B][list]
+
+[*]Heads Up
+[*]Dialer HeadsUp
+[*]Noisy notification id screen on
+[*]Notification Light Customization
+[*]Battery & Charging Light Customization
+[*]Ambient display brightness adjustment
+[*]Ambient notification display adjustment
+[*]Vibrate on connect, answer & hangup 
+[*]Toast app icon
+[*]Toast app icon color
+[*]Toast app text color[/list]
+
+[B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B][list]
+
+[*]Disable power menu on lockscreen
+[*]On-The-Go(worth mentioning)
+[*]Advance Reboot
+[*]Several Toggles, can't write so many
+[*]Power Menu Animations[/list]
+
+[B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B][list]
+
+[*]Columns Rows & Quickbar layout customizations
+[*]Tile title
+[*]Vibration on Touch 
+[*]Quick pulldown
+[*]System info
+[*]Brightness Slider
+[*]Bightness slider at bottom
+[*]Brightness Icon
+[*]Disable quick settings when locked[/list]
+
+[B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B][list]
+
+[*]Statusbar items
+[*]Network Traffic
+[*]Show notification count
+[*]4G icon
+[*]VoLTE icon
+[*]Data disable icon
+[*]Bluwtooth battery status
+[*]Brightness controll
+[*]Kill app button
+[*]Breathing Notifications (SMS, Call & Voicemail)[/list]                                                                                
+
+[B][COLOR="#1976D2"][U]System[/U][/COLOR][/B][list]
+
+[*]Sensor block per-package
+[*]Smart Pixel
+[*]Wakelock blocker
+[*]Alarm blocker
+[*]Suspend actions
+[*]Time in state
+[*]Doze settings
+[*]Aggressive Battery
+[*]Sensor block per-package
+[*]pocket detection
+[*]ADB notification[/list]
+
+
+[B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B][list]
+
+[*]Allow signature spoofing
+[*]Charging animation
+[*]Wake up on charge
+[*]Vibrate on plug/unplug
+[*]Screenshot type
+[*]Dashboard conditions
+[*]Dashboard suggestions
+[/list]
+
+[/HIDE]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/BnYs1Gzz/team.png[/img]
+[QUOTE][LEFT]
+[MENTION=5678679]mukesh22584[/MENTION] (Project Owner Saviour/Developer)
+[MENTION=8829870]SuperDroidBond[/MENTION] : The Ego Man
+[MENTION=7072514]mady51[/MENTION](Project Owner / Kernel Developer & Maintainer)
+[MENTION=7030109]mcdachpappe[/MENTION] (Developer & Codes Fixer)
+[MENTION=7077053]svandasek[/MENTION](Graphics Designer / Devloper & Feature Integrator)
+[MENTION=4479268]Jay_B[/MENTION] (Maintainer & Boot Maker)
+[MENTION=7107153]Ded_Boi[/MENTION] (Developer & Feature Integrator)
+[MENTION=7916453]anishpratheepan[/MENTION] (Web Developer & Feature Integrator)
+[MENTION=9478258]awlw[/MENTION] (Blog & Bot Dev & Device Maintainer)
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/50FxVknR/donations.png[/img]
+[QUOTE][LEFT]
+* [URL=https://www.paypal.me/mukesh22584][B]mukesh22584[/URL][/B]
+* [URL=https://www.paypal.me/mady51][B]mady51[/URL][/B]
+* [URL=https://www.paypal.me/superdroidbond][B]SuperDroidBond[/URL][/B]
+
+[I][B]If you love our work, please donate to us. It will motivate us and help us in keeping the project alive.[/B][/I]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/y8YsdNL9/support.png[/img]
+[QUOTE][LEFT]
+[B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/Fz5hsg6s/downloads.png[/img]
+[QUOTE][LEFT]
+
+[B]ROM: [URL="https://sourceforge.net/projects/xtended/files"]MSM-Xtended ROM[/URL][/B]
+
+[B]Gapps Package: [URL="https://opengapps.org/"] Open Gapps [/URL][/B]
+
+[B]It's recommended to flash Nano Gapps only for better user experience.[/B]
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/02v9TnmV/instruction.png[/img]
+[QUOTE][LEFT]
+[B]Clean Flash[/B]
+1) Backup Everything (Most Important)
+2) Download ROM, Gapps, Magisk, etc.
+3) Reboot to Recovery (TWRP)
+4) Wipe System, Data, Cache, Dalvik Cache.
+5) Flash - ROM, Gapps, Magisk
+6) Once done, wipe cache.
+7) Reboot to System.
+
+[B]Dirty Flash[/B]
+1) Backup Everything (Most Important)
+2) Download ROM
+3) Reboot to Recovery (TWRP)
+4) Wipe Cache & Dalvik Cache.
+5) Flash - ROM.
+6) Once done, wipe cache.
+7) Reboot to System.
+
+**[B][COLOR="Red"]If you fail to follow these instructions, please don't bother reporting any bugs[/COLOR][/B]**
+
+**[B][COLOR="Red"]If you use Xposed, please don't bother reporting any bugs[/COLOR][/B]**
+
+**[B][COLOR="Red"]If you use another kernel, please don't bother reporting any bugs[/COLOR][/B]**
+
+[/LEFT][/QUOTE]
+[/CENTER]
+
+[CENTER][img]https://i.postimg.cc/28xCrW7r/source.png[/img]
+[QUOTE][LEFT]
+
+[B]ROM Source[/B] - [B][URL="https://github.com/Project-Xtended"]Project-Xtended ROM Sources[/URL][/B]
+
+[B]Kernel Source[/B] - [B][URL="MENTION_YOUR_KERNEL_SOURCES"]Kernel Sources[/URL][/B]
+
+[B]Device Tree Source[/B] - [B][URL="MENTION_YOUR_DT_SOURCES"]Device Tree[/URL][/B]
+
+[/LEFT][/QUOTE]
+
+[img]https://i.postimg.cc/s2LVbR9W/credit.png[/img]
+[QUOTE][LEFT]
+We would like to give thanks to everyone in the Android community, big or small.
+
+That said, we would like to Thank all These Teams for their contribution to the OpenSource Community.
+[HIDE]
+* [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
+* [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
+* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL] & Specially @Rakesh.Batra[/B]
+* [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
+* [B][URL=https://github.com/Nitrogen-Project]Nitrogen OS[/B][/URL]
+* [B][URL=https://github.com/AICP]AICP[/B][/URL]
+* [B][URL=https://github.com/CrDroidAndroid]crDroid[/B][/URL]
+* [B][URL=https://github.com/DirtyUnicorns]DirtyUnicorns[/B][/URL]
+* [B][URL=https://github.com/ScrewdAOSP]Screwd AOSP[/B][/URL]
+* [B][URL=https://github.com/CypherOS]CypherOS[/B][/URL]
+* [B][URL=https://github.com/LiquidRemix]Liquid Remix[/B][/URL]
+* [B][URL=https://github.com/BenzoROM]Benzo ROM[/B][/URL]
+* [B][URL=https://github.com/BootLeggersRom]BootLeggers ROM[/B][/URL]
+* [B][URL=https://github.com/AospExtended]AOSP Extended ROM[/B][/URL]
+* [B][URL=https://github.com/ResurrectionRemix]Resurrection Remix ROM[/B][/URL]
+* [B][URL=https://github.com/Syberia-Project]Syberia-Project[/B][/URL]
+* [B][URL=https://github.com/PixelDust-Project-X]PixelDust Project[/B][/URL]
+* [B][URL=https://github.com/PixelExperience]Pixel Experience[/B][/URL]
+[/HIDE]
+
+**[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
+
+[B]Special Thanks to These Testers[/B]
+[MENTION=8257644]rishi2603[/MENTION] (Tester & Motivator)
+[MENTION=7857357]DrUnknownEMC[/MENTION] (Tester & Motivator)
+[MENTION=5328429]sushobith[/MENTION] (Tester & Motivator)
+[MENTION=5286475]Dhairya[/MENTION] (Tester & Motivator)
+[MENTION=5992364]Babloo289[/MENTION] (Tester & Motivator)
+[MENTION=6927767]ps_minky16[/MENTION] (Tester & Motivator)
+Chris Kendall (Tester)
+Everyone Else from the Testing Team & Users using & sharing feedback for improvements
+
+[B]Special Thanks & Credits[/B]
+
+[MENTION=5985430]Rakesh.Batra[/MENTION] - Our Teacher. Learned a lot from you Dada
+[MENTION=4608158]ZenixXx[/MENTION]
+[MENTION=7578917]SKULSHADY[/MENTION]
+[MENTION=4435460]NoSpamDan[/MENTION]
+[MENTION=3795148]neobuddy89 [/MENTION]
+[MENTION=1211160]HolyAngel[/MENTION]
+[MENTION=5091819]spezi77[/MENTION]
+[MENTION=6062450]ElDainosor[/MENTION]
+[MENTION=5545371]Roger.T for the Excellent & Electrifying Boot Animation[/MENTION]
+[/LEFT][/QUOTE]
+[/CENTER]

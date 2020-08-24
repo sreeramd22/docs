@@ -3,7 +3,7 @@
 
 #modify values below
 #leave blank if not used
-zip="Xtended-XQ-v12.0-x2-OFFICIAL-20200810.zip"
+zip="Xtended-XQ-v12.5-x2-OFFICIAL-20200823.zip"
 device="x2"
 #don't modify from here
 script_path="`dirname \"$0\"`"
@@ -24,12 +24,12 @@ echo '{
   "response": [
     {
         "filename": "'$zip_only'",
-	"url": "https:\/\/sourceforge.net\/projects\/xtended\/files\/'$device'\/'$zip_only'\/download",
+        "url": "https:\/\/downloads.msmxtended.org\/'$device'\/'$zip_only'",
         "datetime": '$datetime',
         "id": "'$id'",
         "size": '$size',
         "version": "'$version'",
-        "romtype": "'$romtype'",
+        "romtype": "'$romtype'"
     }
   ]
 }' >> $device.json

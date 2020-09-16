@@ -3,7 +3,7 @@
 
 #modify values below
 #leave blank if not used
-zip="Xtended-XQ-v12.5-x2-OFFICIAL-20200823.zip"
+zip="Xtended-Tribute-To-MartinCoulon-x2-20200916.zip"
 device="x2"
 #don't modify from here
 script_path="`dirname \"$0\"`"
